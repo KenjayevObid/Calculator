@@ -354,7 +354,9 @@ printResultTextCSS = () => {
                   </div>
                 </div>
                 
-                
+                {/* <p className="copy-right text-right">
+                    &copy; 2024, <a href="https://obid-portfolio.netlify.app/" target="_blank" rel="noopener">Obid Kenjaev </a>
+                </p> */}
             </div>
             </div>
         </div>
