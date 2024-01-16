@@ -1,10 +1,10 @@
 import React from 'react';
-import AppView from './views/AppView';
+import View from './views/ViewPage';
  
 function App () {
   return ( 
     <React.Fragment>
-      <AppView />
+      <View />
     </React.Fragment>
  );
 }
